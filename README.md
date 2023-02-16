@@ -8,7 +8,7 @@ It also allows for a text file containing commands to be uploaded and read from.
 
 ## Operations Allowed :
 
-- Applying an control.commands.filters.Sepia filter to an image.
+- Applying an Sepia filter to an image.
 - Applying an Greyscale filter to an image.
 - Isolating the red-component in an image.
 - Isolating the green-component in an image.
