@@ -6,7 +6,7 @@ This is an image processing program, that allows for someone to upload an image 
 of operations to the image and then save it as a new image at a specific location in the computer.
 It also allows for a text file containing commands to be uploaded and read from.
 
-## Operations Allowed:
+## Operations Allowed :
 
 - Applying an control.commands.filters.Sepia filter to an image.
 - Applying an Greyscale filter to an image.
