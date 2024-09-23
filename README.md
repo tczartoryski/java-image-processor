@@ -3,6 +3,9 @@
 The ImageProcessor represents a fully-functioning image manipulation application written in Java. This application uses image processing techniques such as applying **convolution matrices** to blur and sharpen images, **bilinear interpolation** to downscale images, and **component analysis** of an images color channels.
 This application also uses **MVC design pattern** and **SOLID design principles** in its structure.
 
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/878f9bbd-36b4-4561-b03b-fc1b2d840758">
+
+
 ## Features:
 * Brightening and darkening images
 * Applying gaussian blur and sharpening images
